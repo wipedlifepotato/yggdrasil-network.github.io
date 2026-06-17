@@ -263,13 +263,31 @@ Note: do not use square brackets in host!
 
 ----
 
+## nostr
+
+- `ws://[31b:6f20:c7f2:3ddf::3221]/` - Yggdrasil only nostr relay
+
+----
+
+## Blossom
+
+- `http://[302:68d0:f0d5:b88d::bdb]/` - request write access by mention [@YGGverse](https://mastodon.social/@YGGverse) or PR to [whitelist](https://codeberg.org/YGGverse/server/src/branch/main/mnt/sdb1/blossom/whitelist.txt)
+
+----
+
+## Iroh
+
+- `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:3340` - public relay
+
+----
+
 ## Rust
 
 ### Kellnr
 
 The registry for Rust crates
 
-* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8180` | http://ygg.ua.srv:8180
+* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8180`
 
 ## Music
 - [Byteback Music Studio](https://bytebackmusic.org)
